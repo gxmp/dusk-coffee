@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-tailwind-practice/static/css/main.e9bdc82b.chunk.css",
-    "main.js": "/react-tailwind-practice/static/js/main.609a3ce1.chunk.js",
-    "main.js.map": "/react-tailwind-practice/static/js/main.609a3ce1.chunk.js.map",
-    "runtime-main.js": "/react-tailwind-practice/static/js/runtime-main.d192f5dc.js",
-    "runtime-main.js.map": "/react-tailwind-practice/static/js/runtime-main.d192f5dc.js.map",
-    "static/js/2.abdbd6ce.chunk.js": "/react-tailwind-practice/static/js/2.abdbd6ce.chunk.js",
-    "static/js/2.abdbd6ce.chunk.js.map": "/react-tailwind-practice/static/js/2.abdbd6ce.chunk.js.map",
-    "static/js/3.fbce3ccf.chunk.js": "/react-tailwind-practice/static/js/3.fbce3ccf.chunk.js",
-    "static/js/3.fbce3ccf.chunk.js.map": "/react-tailwind-practice/static/js/3.fbce3ccf.chunk.js.map",
-    "index.html": "/react-tailwind-practice/index.html",
-    "static/css/main.e9bdc82b.chunk.css.map": "/react-tailwind-practice/static/css/main.e9bdc82b.chunk.css.map",
-    "static/js/2.abdbd6ce.chunk.js.LICENSE.txt": "/react-tailwind-practice/static/js/2.abdbd6ce.chunk.js.LICENSE.txt",
-    "static/media/different-coffee.d66cf7f8.jpg": "/react-tailwind-practice/static/media/different-coffee.d66cf7f8.jpg",
-    "static/media/final-dusk-coffee-logo-small.e61eb205.png": "/react-tailwind-practice/static/media/final-dusk-coffee-logo-small.e61eb205.png"
+    "main.css": "/dusk-coffee/static/css/main.e9bdc82b.chunk.css",
+    "main.js": "/dusk-coffee/static/js/main.609a3ce1.chunk.js",
+    "main.js.map": "/dusk-coffee/static/js/main.609a3ce1.chunk.js.map",
+    "runtime-main.js": "/dusk-coffee/static/js/runtime-main.69eec5e4.js",
+    "runtime-main.js.map": "/dusk-coffee/static/js/runtime-main.69eec5e4.js.map",
+    "static/js/2.abdbd6ce.chunk.js": "/dusk-coffee/static/js/2.abdbd6ce.chunk.js",
+    "static/js/2.abdbd6ce.chunk.js.map": "/dusk-coffee/static/js/2.abdbd6ce.chunk.js.map",
+    "static/js/3.fbce3ccf.chunk.js": "/dusk-coffee/static/js/3.fbce3ccf.chunk.js",
+    "static/js/3.fbce3ccf.chunk.js.map": "/dusk-coffee/static/js/3.fbce3ccf.chunk.js.map",
+    "index.html": "/dusk-coffee/index.html",
+    "static/css/main.e9bdc82b.chunk.css.map": "/dusk-coffee/static/css/main.e9bdc82b.chunk.css.map",
+    "static/js/2.abdbd6ce.chunk.js.LICENSE.txt": "/dusk-coffee/static/js/2.abdbd6ce.chunk.js.LICENSE.txt",
+    "static/media/different-coffee.d66cf7f8.jpg": "/dusk-coffee/static/media/different-coffee.d66cf7f8.jpg",
+    "static/media/final-dusk-coffee-logo-small.e61eb205.png": "/dusk-coffee/static/media/final-dusk-coffee-logo-small.e61eb205.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d192f5dc.js",
+    "static/js/runtime-main.69eec5e4.js",
     "static/js/2.abdbd6ce.chunk.js",
     "static/css/main.e9bdc82b.chunk.css",
     "static/js/main.609a3ce1.chunk.js"
